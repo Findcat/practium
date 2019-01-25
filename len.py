@@ -1,0 +1,2 @@
+len('Vladimir')
+len('Владимир')
